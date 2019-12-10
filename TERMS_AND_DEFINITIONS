@@ -1,0 +1,57 @@
+class: a oop construct to define a specific set of data
+field: has no validation, often private
+property: often public, can provide validation
+??Validation: check if its correct, max/min/sign+- => in set part of property
+method:  a function associated with a class, often its a verb. it has a body (implementation), parameters (argunments), return type (void, ...)
+access modifier: public private protected internal
+instance: object created from a class blueprint
+constructor: a function used to create a new instance
+abstraction: 
+{
+access private field via public property
+middleware (part of application) authentication/validation
+}
+encapsulation: implemented by hiding data via access modifiers: often using private keyword
+abstract class: class containing at least one abstract method
+abstract method: function without body
+interface: fully abstract class => a class implements IT
+------
+linear programming: scripting, top-down
+compiler: high level C# => CIL intermediate => run with CLR 
+assembly: compiled unit. Windows (exe) 
+----
+.sln: container where projects are kept in (holding container)
+.csproj: metadata => library versions
+------------------------------------------
+action (delegate): method that has no return type, no paremeters
+static: attached to class not to instance
+linear programming: top-down, scripting
+------------------------------------------------
+Threads: 
+	- Synchronous programming: sequential execution of tasks 
+	- Asynchronous programming: interleaved execution of tasks
+		1. main thread
+		2. background thread/task with resources allocated by operating system
+
+		This technique is used for Web-based applications
+-------------------------------------------------------
+Monday 2 December - Week 7 - Review
+Cache: temporary data stored in memory, web cache previously lodaded files
+Buffer: temporary memory area for streaming data in/out
+ASCII: 7 bits, 127 characters
+UTF-8: 8 bits, 256 characters, web standard enconding
+UTF-16: 16 bits, a lot of characters, to support special characters from different languages
+Action delegate: void MyAction(); no in/out parameters, no data returned
+----------------------------------------------------------------------
+------------------------------ASP STUFF-------------------------------
+----------------------------------------------------------------------
+
+https://domain.com:port/controller/action/Id
+					eg:/Customers/Index			Get all customers
+					eg:/Customers/Index/2		Get customer 2
+					eg:/Customers/Post			CREATE
+					eg:/Customers/Post/2		UPDATE
+					eg:/Customers/Put/2			UPDATE
+					eg:/Customers/Delete/2		DELETE
+
+Cookie: text file sent with every html request and response, it contains code which means something to the provider

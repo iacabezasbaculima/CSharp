@@ -1,0 +1,11 @@
+C:\Users\Isaac Baculima\source\repos\CSharp\Streaming\Streaming\bin\Debug\netcoreapp3.0\Streaming.exe
+C:\Users\Isaac Baculima\source\repos\CSharp\Streaming\Streaming\bin\Debug\netcoreapp3.0\Streaming.deps.json
+C:\Users\Isaac Baculima\source\repos\CSharp\Streaming\Streaming\bin\Debug\netcoreapp3.0\Streaming.runtimeconfig.json
+C:\Users\Isaac Baculima\source\repos\CSharp\Streaming\Streaming\bin\Debug\netcoreapp3.0\Streaming.runtimeconfig.dev.json
+C:\Users\Isaac Baculima\source\repos\CSharp\Streaming\Streaming\bin\Debug\netcoreapp3.0\Streaming.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\Streaming\Streaming\bin\Debug\netcoreapp3.0\Streaming.pdb
+C:\Users\Isaac Baculima\source\repos\CSharp\Streaming\Streaming\obj\Debug\netcoreapp3.0\Streaming.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\CSharp\Streaming\Streaming\obj\Debug\netcoreapp3.0\Streaming.AssemblyInfoInputs.cache
+C:\Users\Isaac Baculima\source\repos\CSharp\Streaming\Streaming\obj\Debug\netcoreapp3.0\Streaming.AssemblyInfo.cs
+C:\Users\Isaac Baculima\source\repos\CSharp\Streaming\Streaming\obj\Debug\netcoreapp3.0\Streaming.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\Streaming\Streaming\obj\Debug\netcoreapp3.0\Streaming.pdb

@@ -1,0 +1,6 @@
+C:\Users\Isaac Baculima\Engineering45\Week2\Day3\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\Isaac Baculima\Engineering45\Week2\Day3\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\Isaac Baculima\Engineering45\Week2\Day3\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\Isaac Baculima\Engineering45\Week2\Day3\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\Engineering45\Week2\Day3\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\Isaac Baculima\Engineering45\Week2\Day3\OOP\OOP\obj\Debug\OOP.pdb

@@ -1,0 +1,6 @@
+C:\Users\Isaac Baculima\Engineering45\Week2\Day4\AdvancedCollections\AdvancedCollections\bin\Debug\AdvancedCollections.exe.config
+C:\Users\Isaac Baculima\Engineering45\Week2\Day4\AdvancedCollections\AdvancedCollections\bin\Debug\AdvancedCollections.exe
+C:\Users\Isaac Baculima\Engineering45\Week2\Day4\AdvancedCollections\AdvancedCollections\bin\Debug\AdvancedCollections.pdb
+C:\Users\Isaac Baculima\Engineering45\Week2\Day4\AdvancedCollections\AdvancedCollections\obj\Debug\AdvancedCollections.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\Engineering45\Week2\Day4\AdvancedCollections\AdvancedCollections\obj\Debug\AdvancedCollections.exe
+C:\Users\Isaac Baculima\Engineering45\Week2\Day4\AdvancedCollections\AdvancedCollections\obj\Debug\AdvancedCollections.pdb

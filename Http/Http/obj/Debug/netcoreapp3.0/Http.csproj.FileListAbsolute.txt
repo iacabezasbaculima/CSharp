@@ -1,0 +1,11 @@
+C:\Users\Isaac Baculima\source\repos\CSharp\Http\Http\bin\Debug\netcoreapp3.0\Http.exe
+C:\Users\Isaac Baculima\source\repos\CSharp\Http\Http\bin\Debug\netcoreapp3.0\Http.deps.json
+C:\Users\Isaac Baculima\source\repos\CSharp\Http\Http\bin\Debug\netcoreapp3.0\Http.runtimeconfig.json
+C:\Users\Isaac Baculima\source\repos\CSharp\Http\Http\bin\Debug\netcoreapp3.0\Http.runtimeconfig.dev.json
+C:\Users\Isaac Baculima\source\repos\CSharp\Http\Http\bin\Debug\netcoreapp3.0\Http.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\Http\Http\bin\Debug\netcoreapp3.0\Http.pdb
+C:\Users\Isaac Baculima\source\repos\CSharp\Http\Http\obj\Debug\netcoreapp3.0\Http.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\CSharp\Http\Http\obj\Debug\netcoreapp3.0\Http.AssemblyInfoInputs.cache
+C:\Users\Isaac Baculima\source\repos\CSharp\Http\Http\obj\Debug\netcoreapp3.0\Http.AssemblyInfo.cs
+C:\Users\Isaac Baculima\source\repos\CSharp\Http\Http\obj\Debug\netcoreapp3.0\Http.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\Http\Http\obj\Debug\netcoreapp3.0\Http.pdb

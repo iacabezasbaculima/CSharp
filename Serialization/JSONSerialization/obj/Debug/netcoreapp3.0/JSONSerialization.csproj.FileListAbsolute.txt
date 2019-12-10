@@ -1,0 +1,13 @@
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\JSONSerialization\bin\Debug\netcoreapp3.0\JSONSerialization.exe
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\JSONSerialization\bin\Debug\netcoreapp3.0\JSONSerialization.deps.json
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\JSONSerialization\bin\Debug\netcoreapp3.0\JSONSerialization.runtimeconfig.json
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\JSONSerialization\bin\Debug\netcoreapp3.0\JSONSerialization.runtimeconfig.dev.json
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\JSONSerialization\bin\Debug\netcoreapp3.0\JSONSerialization.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\JSONSerialization\bin\Debug\netcoreapp3.0\JSONSerialization.pdb
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\JSONSerialization\obj\Debug\netcoreapp3.0\JSONSerialization.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\JSONSerialization\obj\Debug\netcoreapp3.0\JSONSerialization.AssemblyInfoInputs.cache
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\JSONSerialization\obj\Debug\netcoreapp3.0\JSONSerialization.AssemblyInfo.cs
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\JSONSerialization\obj\Debug\netcoreapp3.0\JSONSerialization.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\JSONSerialization\obj\Debug\netcoreapp3.0\JSONSerialization.pdb
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\JSONSerialization\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\JSONSerialization\obj\Debug\netcoreapp3.0\JSONSerialization.csproj.CopyComplete

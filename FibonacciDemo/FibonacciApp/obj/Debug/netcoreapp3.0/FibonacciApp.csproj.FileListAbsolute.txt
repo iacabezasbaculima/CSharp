@@ -1,0 +1,11 @@
+C:\Users\Isaac Baculima\source\repos\CSharp\FibonacciDemo\FibonacciApp\bin\Debug\netcoreapp3.0\FibonacciApp.exe
+C:\Users\Isaac Baculima\source\repos\CSharp\FibonacciDemo\FibonacciApp\bin\Debug\netcoreapp3.0\FibonacciApp.deps.json
+C:\Users\Isaac Baculima\source\repos\CSharp\FibonacciDemo\FibonacciApp\bin\Debug\netcoreapp3.0\FibonacciApp.runtimeconfig.json
+C:\Users\Isaac Baculima\source\repos\CSharp\FibonacciDemo\FibonacciApp\bin\Debug\netcoreapp3.0\FibonacciApp.runtimeconfig.dev.json
+C:\Users\Isaac Baculima\source\repos\CSharp\FibonacciDemo\FibonacciApp\bin\Debug\netcoreapp3.0\FibonacciApp.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\FibonacciDemo\FibonacciApp\bin\Debug\netcoreapp3.0\FibonacciApp.pdb
+C:\Users\Isaac Baculima\source\repos\CSharp\FibonacciDemo\FibonacciApp\obj\Debug\netcoreapp3.0\FibonacciApp.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\CSharp\FibonacciDemo\FibonacciApp\obj\Debug\netcoreapp3.0\FibonacciApp.AssemblyInfoInputs.cache
+C:\Users\Isaac Baculima\source\repos\CSharp\FibonacciDemo\FibonacciApp\obj\Debug\netcoreapp3.0\FibonacciApp.AssemblyInfo.cs
+C:\Users\Isaac Baculima\source\repos\CSharp\FibonacciDemo\FibonacciApp\obj\Debug\netcoreapp3.0\FibonacciApp.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\FibonacciDemo\FibonacciApp\obj\Debug\netcoreapp3.0\FibonacciApp.pdb

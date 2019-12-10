@@ -1,0 +1,11 @@
+C:\Users\Isaac Baculima\source\repos\CSharp\AreaUnderAGraph\AreaUnderAGraph\bin\Debug\netcoreapp3.0\AreaUnderAGraph.exe
+C:\Users\Isaac Baculima\source\repos\CSharp\AreaUnderAGraph\AreaUnderAGraph\bin\Debug\netcoreapp3.0\AreaUnderAGraph.deps.json
+C:\Users\Isaac Baculima\source\repos\CSharp\AreaUnderAGraph\AreaUnderAGraph\bin\Debug\netcoreapp3.0\AreaUnderAGraph.runtimeconfig.json
+C:\Users\Isaac Baculima\source\repos\CSharp\AreaUnderAGraph\AreaUnderAGraph\bin\Debug\netcoreapp3.0\AreaUnderAGraph.runtimeconfig.dev.json
+C:\Users\Isaac Baculima\source\repos\CSharp\AreaUnderAGraph\AreaUnderAGraph\bin\Debug\netcoreapp3.0\AreaUnderAGraph.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\AreaUnderAGraph\AreaUnderAGraph\bin\Debug\netcoreapp3.0\AreaUnderAGraph.pdb
+C:\Users\Isaac Baculima\source\repos\CSharp\AreaUnderAGraph\AreaUnderAGraph\obj\Debug\netcoreapp3.0\AreaUnderAGraph.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\CSharp\AreaUnderAGraph\AreaUnderAGraph\obj\Debug\netcoreapp3.0\AreaUnderAGraph.AssemblyInfoInputs.cache
+C:\Users\Isaac Baculima\source\repos\CSharp\AreaUnderAGraph\AreaUnderAGraph\obj\Debug\netcoreapp3.0\AreaUnderAGraph.AssemblyInfo.cs
+C:\Users\Isaac Baculima\source\repos\CSharp\AreaUnderAGraph\AreaUnderAGraph\obj\Debug\netcoreapp3.0\AreaUnderAGraph.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\AreaUnderAGraph\AreaUnderAGraph\obj\Debug\netcoreapp3.0\AreaUnderAGraph.pdb

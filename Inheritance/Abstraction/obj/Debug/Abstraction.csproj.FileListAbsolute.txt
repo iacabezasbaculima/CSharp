@@ -1,0 +1,6 @@
+C:\Users\Isaac Baculima\Engineering45\Week2\Day1\Inheritance\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\Isaac Baculima\Engineering45\Week2\Day1\Inheritance\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Isaac Baculima\Engineering45\Week2\Day1\Inheritance\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Isaac Baculima\Engineering45\Week2\Day1\Inheritance\Abstraction\obj\Debug\Abstraction.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\Engineering45\Week2\Day1\Inheritance\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Isaac Baculima\Engineering45\Week2\Day1\Inheritance\Abstraction\obj\Debug\Abstraction.pdb

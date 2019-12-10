@@ -1,0 +1,6 @@
+C:\Users\Isaac Baculima\Engineering45\Week2\Day1\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Isaac Baculima\Engineering45\Week2\Day1\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Isaac Baculima\Engineering45\Week2\Day1\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Isaac Baculima\Engineering45\Week2\Day1\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\Engineering45\Week2\Day1\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Isaac Baculima\Engineering45\Week2\Day1\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

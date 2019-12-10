@@ -1,0 +1,16 @@
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\BinarySerialization\bin\Debug\netcoreapp3.0\JSONSerialization.exe
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\BinarySerialization\bin\Debug\netcoreapp3.0\BinarySerialization.exe
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\BinarySerialization\bin\Debug\netcoreapp3.0\BinarySerialization.deps.json
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\BinarySerialization\bin\Debug\netcoreapp3.0\BinarySerialization.runtimeconfig.json
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\BinarySerialization\bin\Debug\netcoreapp3.0\BinarySerialization.runtimeconfig.dev.json
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\BinarySerialization\bin\Debug\netcoreapp3.0\BinarySerialization.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\BinarySerialization\bin\Debug\netcoreapp3.0\BinarySerialization.pdb
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\BinarySerialization\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\BinarySerialization\bin\Debug\netcoreapp3.0\JSONSerialization.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\BinarySerialization\bin\Debug\netcoreapp3.0\JSONSerialization.pdb
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\BinarySerialization\obj\Debug\netcoreapp3.0\BinarySerialization.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\BinarySerialization\obj\Debug\netcoreapp3.0\BinarySerialization.AssemblyInfoInputs.cache
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\BinarySerialization\obj\Debug\netcoreapp3.0\BinarySerialization.AssemblyInfo.cs
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\BinarySerialization\obj\Debug\netcoreapp3.0\BinarySerialization.csproj.CopyComplete
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\BinarySerialization\obj\Debug\netcoreapp3.0\BinarySerialization.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\Serialization\BinarySerialization\obj\Debug\netcoreapp3.0\BinarySerialization.pdb

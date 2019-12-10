@@ -1,0 +1,11 @@
+C:\Users\Isaac Baculima\source\repos\CSharp\Tasks\TasksApp\bin\Debug\netcoreapp3.0\TasksApp.exe
+C:\Users\Isaac Baculima\source\repos\CSharp\Tasks\TasksApp\bin\Debug\netcoreapp3.0\TasksApp.deps.json
+C:\Users\Isaac Baculima\source\repos\CSharp\Tasks\TasksApp\bin\Debug\netcoreapp3.0\TasksApp.runtimeconfig.json
+C:\Users\Isaac Baculima\source\repos\CSharp\Tasks\TasksApp\bin\Debug\netcoreapp3.0\TasksApp.runtimeconfig.dev.json
+C:\Users\Isaac Baculima\source\repos\CSharp\Tasks\TasksApp\bin\Debug\netcoreapp3.0\TasksApp.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\Tasks\TasksApp\bin\Debug\netcoreapp3.0\TasksApp.pdb
+C:\Users\Isaac Baculima\source\repos\CSharp\Tasks\TasksApp\obj\Debug\netcoreapp3.0\TasksApp.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\CSharp\Tasks\TasksApp\obj\Debug\netcoreapp3.0\TasksApp.AssemblyInfoInputs.cache
+C:\Users\Isaac Baculima\source\repos\CSharp\Tasks\TasksApp\obj\Debug\netcoreapp3.0\TasksApp.AssemblyInfo.cs
+C:\Users\Isaac Baculima\source\repos\CSharp\Tasks\TasksApp\obj\Debug\netcoreapp3.0\TasksApp.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\Tasks\TasksApp\obj\Debug\netcoreapp3.0\TasksApp.pdb

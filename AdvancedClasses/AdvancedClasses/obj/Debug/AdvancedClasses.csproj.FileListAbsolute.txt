@@ -1,0 +1,6 @@
+C:\Users\Isaac Baculima\Engineering45\Week2\Day5\AdvancedClasses\AdvancedClasses\bin\Debug\AdvancedClasses.exe.config
+C:\Users\Isaac Baculima\Engineering45\Week2\Day5\AdvancedClasses\AdvancedClasses\bin\Debug\AdvancedClasses.exe
+C:\Users\Isaac Baculima\Engineering45\Week2\Day5\AdvancedClasses\AdvancedClasses\bin\Debug\AdvancedClasses.pdb
+C:\Users\Isaac Baculima\Engineering45\Week2\Day5\AdvancedClasses\AdvancedClasses\obj\Debug\AdvancedClasses.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\Engineering45\Week2\Day5\AdvancedClasses\AdvancedClasses\obj\Debug\AdvancedClasses.exe
+C:\Users\Isaac Baculima\Engineering45\Week2\Day5\AdvancedClasses\AdvancedClasses\obj\Debug\AdvancedClasses.pdb
