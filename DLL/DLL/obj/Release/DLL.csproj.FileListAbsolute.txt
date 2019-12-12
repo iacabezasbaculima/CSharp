@@ -1,0 +1,5 @@
+C:\Users\Isaac Baculima\source\repos\DLL\DLL\bin\Release\DLL.dll
+C:\Users\Isaac Baculima\source\repos\DLL\DLL\bin\Release\DLL.pdb
+C:\Users\Isaac Baculima\source\repos\DLL\DLL\obj\Release\DLL.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\DLL\DLL\obj\Release\DLL.dll
+C:\Users\Isaac Baculima\source\repos\DLL\DLL\obj\Release\DLL.pdb

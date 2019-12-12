@@ -1,0 +1,6 @@
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Generics\bin\Debug\Generics.exe.config
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Generics\bin\Debug\Generics.exe
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Generics\bin\Debug\Generics.pdb
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Generics\obj\Debug\Generics.exe
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Generics\obj\Debug\Generics.pdb

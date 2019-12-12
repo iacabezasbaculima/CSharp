@@ -1,0 +1,5 @@
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Lambda\bin\Debug\Lambda.exe
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Lambda\bin\Debug\Lambda.pdb
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Lambda\obj\Debug\Lambda.exe
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Lambda\obj\Debug\Lambda.pdb

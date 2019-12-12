@@ -1,0 +1,6 @@
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Events\bin\Debug\Events.exe.config
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Events\bin\Debug\Events.exe
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Events\bin\Debug\Events.pdb
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Events\obj\Debug\Events.exe
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\Events\obj\Debug\Events.pdb

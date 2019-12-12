@@ -1,0 +1,6 @@
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\FileHandling\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\FileHandling\Calculator\bin\Debug\Calculator.exe
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\FileHandling\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\FileHandling\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\FileHandling\Calculator\obj\Debug\Calculator.exe
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\FileHandling\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,10 @@
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\EntityFramework101\bin\Debug\EntityFramework101.exe.config
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\EntityFramework101\bin\Debug\EntityFramework101.exe
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\EntityFramework101\bin\Debug\EntityFramework101.pdb
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\EntityFramework101\bin\Debug\EntityFramework.dll
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\EntityFramework101\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\EntityFramework101\bin\Debug\EntityFramework.xml
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\EntityFramework101\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\EntityFramework101\obj\Debug\EntityFramework101.csproj.CopyComplete
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\EntityFramework101\obj\Debug\EntityFramework101.exe
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\EntityFramework101\obj\Debug\EntityFramework101.pdb

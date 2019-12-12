@@ -1,0 +1,10 @@
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\DBProgramming\bin\Debug\DBProgramming.exe.config
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\DBProgramming\bin\Debug\DBProgramming.exe
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\DBProgramming\bin\Debug\DBProgramming.pdb
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\DBProgramming\obj\Debug\DBProgramming.exe
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\DBProgramming\obj\Debug\DBProgramming.pdb
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\DBProgramming\bin\Debug\EntityFramework.dll
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\DBProgramming\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\DBProgramming\bin\Debug\EntityFramework.xml
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\DBProgramming\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\DBProgramming\obj\Debug\DBProgramming.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\Isaac Baculima\source\repos\DLL\GCalculator\bin\Debug\GCalculator.exe.config
+C:\Users\Isaac Baculima\source\repos\DLL\GCalculator\bin\Debug\GCalculator.exe
+C:\Users\Isaac Baculima\source\repos\DLL\GCalculator\bin\Debug\GCalculator.pdb
+C:\Users\Isaac Baculima\source\repos\DLL\GCalculator\obj\Debug\GCalculator.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\DLL\GCalculator\obj\Debug\GCalculator.Calculator.resources
+C:\Users\Isaac Baculima\source\repos\DLL\GCalculator\obj\Debug\GCalculator.Properties.Resources.resources
+C:\Users\Isaac Baculima\source\repos\DLL\GCalculator\obj\Debug\GCalculator.csproj.GenerateResource.cache
+C:\Users\Isaac Baculima\source\repos\DLL\GCalculator\obj\Debug\GCalculator.exe
+C:\Users\Isaac Baculima\source\repos\DLL\GCalculator\obj\Debug\GCalculator.pdb
+C:\Users\Isaac Baculima\source\repos\DLL\GCalculator\bin\Debug\CalculatorLibraryCore.dll
+C:\Users\Isaac Baculima\source\repos\DLL\GCalculator\bin\Debug\CalculatorLibraryCore.pdb
+C:\Users\Isaac Baculima\source\repos\DLL\GCalculator\obj\Debug\GCalculator.csproj.CopyComplete

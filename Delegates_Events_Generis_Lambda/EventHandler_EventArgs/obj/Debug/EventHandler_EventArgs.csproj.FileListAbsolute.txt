@@ -1,0 +1,6 @@
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\EventHandler_EventArgs\bin\Debug\EventHandler_EventArgs.exe.config
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\EventHandler_EventArgs\bin\Debug\EventHandler_EventArgs.exe
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\EventHandler_EventArgs\bin\Debug\EventHandler_EventArgs.pdb
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\EventHandler_EventArgs\obj\Debug\EventHandler_EventArgs.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\EventHandler_EventArgs\obj\Debug\EventHandler_EventArgs.exe
+C:\Users\Isaac Baculima\source\repos\NETConsolePlayground\EventHandler_EventArgs\obj\Debug\EventHandler_EventArgs.pdb

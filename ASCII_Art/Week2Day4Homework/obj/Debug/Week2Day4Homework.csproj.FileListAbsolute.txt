@@ -1,0 +1,6 @@
+C:\Users\Isaac Baculima\Engineering45\Week2\Day4\Week2Day4Homework\Week2Day4Homework\bin\Debug\Week2Day4Homework.exe.config
+C:\Users\Isaac Baculima\Engineering45\Week2\Day4\Week2Day4Homework\Week2Day4Homework\bin\Debug\Week2Day4Homework.exe
+C:\Users\Isaac Baculima\Engineering45\Week2\Day4\Week2Day4Homework\Week2Day4Homework\bin\Debug\Week2Day4Homework.pdb
+C:\Users\Isaac Baculima\Engineering45\Week2\Day4\Week2Day4Homework\Week2Day4Homework\obj\Debug\Week2Day4Homework.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\Engineering45\Week2\Day4\Week2Day4Homework\Week2Day4Homework\obj\Debug\Week2Day4Homework.exe
+C:\Users\Isaac Baculima\Engineering45\Week2\Day4\Week2Day4Homework\Week2Day4Homework\obj\Debug\Week2Day4Homework.pdb

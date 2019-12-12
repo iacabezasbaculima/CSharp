@@ -1,0 +1,19 @@
+git init
+git add .
+git status 
+git commit -m
+git log --oneline
+git reset <commit id>
+git checkout -b <new branch> // create new branch
+git checkout <brand name> // go to branch
+git pull // fetch + merge at once
+git remote add origin <url> 
+git push origin master
+eval $(ssh-agent -s)	// run ssh agent to add ssh key
+ssh-add ~/.ssh/key      // Not ".pub" key
+clip < ~/.ssh/key.pub	// copy public key to add to github 
+cat ~/.ssh/key			// show content of file
+
+============ DOCKER =========
+docker pull kcornwall/sqlnorthwind
+docker run -d --name ibsql -p 1433:1433 kcornwall/sqlnorthwind

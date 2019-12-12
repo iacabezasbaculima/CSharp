@@ -1,0 +1,6 @@
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\RawSQL\bin\Debug\RawSQL.exe.config
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\RawSQL\bin\Debug\RawSQL.exe
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\RawSQL\bin\Debug\RawSQL.pdb
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\RawSQL\obj\Debug\RawSQL.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\RawSQL\obj\Debug\RawSQL.exe
+C:\Users\Isaac Baculima\Engineering45\Week3\Day4\WeekDay4Learning\RawSQL\obj\Debug\RawSQL.pdb

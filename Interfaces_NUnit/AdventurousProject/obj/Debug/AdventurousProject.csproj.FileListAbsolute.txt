@@ -1,0 +1,6 @@
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\Week3Day2Homework\AdventurousProject\bin\Debug\AdventurousProject.exe.config
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\Week3Day2Homework\AdventurousProject\bin\Debug\AdventurousProject.exe
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\Week3Day2Homework\AdventurousProject\bin\Debug\AdventurousProject.pdb
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\Week3Day2Homework\AdventurousProject\obj\Debug\AdventurousProject.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\Week3Day2Homework\AdventurousProject\obj\Debug\AdventurousProject.exe
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\Week3Day2Homework\AdventurousProject\obj\Debug\AdventurousProject.pdb

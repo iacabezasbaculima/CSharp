@@ -1,0 +1,10 @@
+C:\Users\Isaac Baculima\source\repos\CSharp\PreprocessorDirectives\PreprocessorDirectives\bin\Debug\netcoreapp3.0\PreprocessorDirectives.exe
+C:\Users\Isaac Baculima\source\repos\CSharp\PreprocessorDirectives\PreprocessorDirectives\bin\Debug\netcoreapp3.0\PreprocessorDirectives.deps.json
+C:\Users\Isaac Baculima\source\repos\CSharp\PreprocessorDirectives\PreprocessorDirectives\bin\Debug\netcoreapp3.0\PreprocessorDirectives.runtimeconfig.json
+C:\Users\Isaac Baculima\source\repos\CSharp\PreprocessorDirectives\PreprocessorDirectives\bin\Debug\netcoreapp3.0\PreprocessorDirectives.runtimeconfig.dev.json
+C:\Users\Isaac Baculima\source\repos\CSharp\PreprocessorDirectives\PreprocessorDirectives\bin\Debug\netcoreapp3.0\PreprocessorDirectives.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\PreprocessorDirectives\PreprocessorDirectives\bin\Debug\netcoreapp3.0\PreprocessorDirectives.pdb
+C:\Users\Isaac Baculima\source\repos\CSharp\PreprocessorDirectives\PreprocessorDirectives\obj\Debug\netcoreapp3.0\PreprocessorDirectives.AssemblyInfoInputs.cache
+C:\Users\Isaac Baculima\source\repos\CSharp\PreprocessorDirectives\PreprocessorDirectives\obj\Debug\netcoreapp3.0\PreprocessorDirectives.AssemblyInfo.cs
+C:\Users\Isaac Baculima\source\repos\CSharp\PreprocessorDirectives\PreprocessorDirectives\obj\Debug\netcoreapp3.0\PreprocessorDirectives.dll
+C:\Users\Isaac Baculima\source\repos\CSharp\PreprocessorDirectives\PreprocessorDirectives\obj\Debug\netcoreapp3.0\PreprocessorDirectives.pdb

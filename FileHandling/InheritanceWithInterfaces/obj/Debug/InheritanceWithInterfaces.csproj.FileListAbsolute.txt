@@ -1,0 +1,5 @@
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\FileHandling\InheritanceWithInterfaces\bin\Debug\InheritanceWithInterfaces.exe.config
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\FileHandling\InheritanceWithInterfaces\bin\Debug\InheritanceWithInterfaces.exe
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\FileHandling\InheritanceWithInterfaces\bin\Debug\InheritanceWithInterfaces.pdb
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\FileHandling\InheritanceWithInterfaces\obj\Debug\InheritanceWithInterfaces.exe
+C:\Users\Isaac Baculima\Engineering45\Week3\Day2\FileHandling\InheritanceWithInterfaces\obj\Debug\InheritanceWithInterfaces.pdb
