@@ -55,3 +55,17 @@ https://domain.com:port/controller/action/Id
 					eg:/Customers/Delete/2		DELETE
 
 Cookie: text file sent with every html request and response, it contains code which means something to the provider
+------------------------------------------------------------
+SOLID
+-------------------------------------------------------
+S: single responsibility
+
+O: open/closed
+	-> open for EXTENSION (inheritance)
+	-> closed for MODIFICATION (at base class level)
+
+L: can swap child and parent instance easily 
+
+I:	Interface specific
+
+D: Dependency inversion, use of abstract classes at top level to build structure
