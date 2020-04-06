@@ -9,10 +9,14 @@ git checkout <brand name> // go to branch
 git pull // fetch + merge at once
 git remote add origin <url> 
 git push origin master
+$ ls -al ~/.ssh // Lists the files in your .ssh directory, if they exist
+$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com" // create new SSH key
+// When you see the message below, PRESS Enter to continue
+> Enter a file in which to save the key (/c/Users/you/.ssh/id_rsa):[Press enter]
 eval $(ssh-agent -s)	// run ssh agent to add ssh key
-ssh-add ~/.ssh/key      // Not ".pub" key
+ssh-add ~/.ssh/[ssh key you created]   // Not ".pub" key
 clip < ~/.ssh/key.pub	// copy public key to add to github 
-cat ~/.ssh/key			// show content of file
+cat ~/.ssh/key	// show content of file
 
 ============ DOCKER =========
 docker pull kcornwall/sqlnorthwind
